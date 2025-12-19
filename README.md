@@ -5,6 +5,8 @@ It enables multiple users to communicate instantly through a modern and responsi
 
 This project was developed to gain hands-on experience with **real-time communication**, **WebSocket architecture**, and **frontend–backend integration** using Spring Boot.
 
+<img width="1280" height="762" alt="Screenshot 2025-12-19 at 1 01 46 PM" src="https://github.com/user-attachments/assets/b34cf2a1-008b-4a73-a21f-f5bf68ea0b9a" />
+
 ---
 
 ## Features
